@@ -9,4 +9,4 @@ npm install
 
 npm start
 
-go to the link https://gamesimple.herokuapp.com/ for directly play :}
+go to the link https://gamesimple.herokuapp.com/ for direct play :}
